@@ -1,0 +1,40 @@
+.card {
+  width: 222px;
+  overflow: hidden;
+  margin: 10px;
+  border: 0 !important;
+  border-radius: 0% !important;
+}
+
+.cardTitle {
+  margin: 0;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  word-wrap: break-word;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.cardBody {
+  padding: 1rem 0 0 !important;
+}
+
+.cardTitle {
+  margin-bottom: 0.2rem !important;
+}
+
+.cardAuthor {
+  font-size: 0.8rem !important;
+  color: #888;
+  margin: 0;
+}
+
+.cardPrice {
+  font-weight: bold;
+  margin: 0.3rem 0;
+}
+
+.cardImg {
+  border-radius: 0% !important;
+}

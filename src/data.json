@@ -1,0 +1,29 @@
+[
+  {
+    "id": "aseafe2",
+    "title": "learn python from zero to hero",
+    "instructor": "jose portila",
+    "stars": 4.3,
+    "students": 1485,
+    "price": 41,
+    "bestSeller": true
+  },
+  {
+    "id": "aseafe2",
+    "title": "learn python from zero to hero",
+    "instructor": "jose portila",
+    "stars": 5,
+    "students": 19322,
+    "price": 36,
+    "bestSeller": true
+  },
+  {
+    "id": "aseafe2",
+    "title": "learn python from zero to hero",
+    "instructor": "jose portila",
+    "stars": 4.1,
+    "students": 91199,
+    "price": 43,
+    "bestSeller": true
+  }
+]
