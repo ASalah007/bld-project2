@@ -1,6 +1,6 @@
 const utils = {
   range(i) {
-    return [...Array(i).keys()];
+    return [...Array(Math.floor(i)).keys()];
   },
 
   formatCount(num) {

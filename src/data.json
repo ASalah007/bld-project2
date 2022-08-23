@@ -5,7 +5,70 @@
     "instructor": "jose portila",
     "stars": 4.3,
     "students": 1485,
-    "price": 41,
+    "price": 41.99,
+    "bestSeller": true
+  },
+  {
+    "id": "aseafe2",
+    "title": "learn python from zero to herolearn python from zero to hero",
+    "instructor": "jose portila",
+    "stars": 3.2,
+    "students": 19322,
+    "price": 36.99,
+    "bestSeller": true
+  },
+  {
+    "id": "aseafe2",
+    "title": "learn python from zero to hero earn python from zero to hero",
+    "instructor": "jose portila",
+    "stars": 2.2,
+    "students": 19322,
+    "price": 36.99,
+    "bestSeller": true
+  },
+  {
+    "id": "aseafe2",
+    "title": "learn python from zero to hero earn python from zero to hero learn python from zero to hero",
+    "instructor": "jose portila",
+    "stars": 5,
+    "students": 19322,
+    "price": 36.99,
+    "bestSeller": true
+  },
+  {
+    "id": "aseafe2",
+    "title": "llearn python from zero to herolearn python from zero to heroearn python from zero to hero",
+    "instructor": "jose portila",
+    "stars": 4.9,
+    "students": 19322,
+    "price": 36.99,
+    "bestSeller": true
+  },
+  {
+    "id": "aseafe2",
+    "title": "llearn python from zero to heroearn python from zero to hero",
+    "instructor": "jose portila",
+    "stars": 4.4,
+    "students": 192,
+    "price": 36.99,
+    "bestSeller": true
+  },
+  {
+    "id": "aseafe2",
+    "title": "learn python from zero to hero",
+    "instructor": "jose portila",
+    "stars": 3,
+    "students": 109322,
+    "price": 36.99,
+    "bestSeller": true
+  },
+  {
+    "id": "aseafe2",
+    "title": "learn python from zero to hero",
+    "instructor": "jose portila",
+    "stars": 4,
+    "students": 19322,
+    "price": 36.99,
     "bestSeller": true
   },
   {
@@ -14,7 +77,52 @@
     "instructor": "jose portila",
     "stars": 5,
     "students": 19322,
-    "price": 36,
+    "price": 36.99,
+    "bestSeller": true
+  },
+  {
+    "id": "aseafe2",
+    "title": "learn python from zero to hero",
+    "instructor": "jose portila",
+    "stars": 5,
+    "students": 19322,
+    "price": 36.99,
+    "bestSeller": true
+  },
+  {
+    "id": "aseafe2",
+    "title": "learn python from zero to hero",
+    "instructor": "jose portila",
+    "stars": 5,
+    "students": 19322,
+    "price": 36.99,
+    "bestSeller": true
+  },
+  {
+    "id": "aseafe2",
+    "title": "learn python from zero to hero",
+    "instructor": "jose portila",
+    "stars": 5,
+    "students": 19322,
+    "price": 36.99,
+    "bestSeller": true
+  },
+  {
+    "id": "aseafe2",
+    "title": "learn python from zero to hero",
+    "instructor": "jose portila",
+    "stars": 5,
+    "students": 19322,
+    "price": 36.99,
+    "bestSeller": true
+  },
+  {
+    "id": "aseafe2",
+    "title": "learn python from zero to hero",
+    "instructor": "jose portila",
+    "stars": 5,
+    "students": 19322,
+    "price": 36.99,
     "bestSeller": true
   },
   {
@@ -23,7 +131,7 @@
     "instructor": "jose portila",
     "stars": 4.1,
     "students": 91199,
-    "price": 43,
+    "price": 43.99,
     "bestSeller": true
   }
 ]

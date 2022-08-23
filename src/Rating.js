@@ -6,9 +6,10 @@ const Rating = (props) => {
   const studentsCount = props.studentsCount;
   const { rating, star, students } = styles;
 
+  console.log(typeof ratingCount);
   return (
     <div className="d-flex align-items-center ">
-      <span className={rating}>{ratingCount}</span>
+      <span className={rating}>{ratingCount.toFixed(1)}</span>
 
       {utils.range(Math.floor(ratingCount)).map((i) => (
         <img key={i} className={star} src="/star.png" alt="star" />

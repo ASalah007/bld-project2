@@ -4,7 +4,7 @@ import Rating from "./Rating.js";
 
 const Card = (props) => {
   return (
-    <div className={"card " + styles.card}>
+    <div className={"card d-inline-block " + styles.card}>
       <img
         className={"card-img-top " + styles.cardImg}
         src="https://img-c.udemycdn.com/course/750x422/394676_ce3d_5.jpg"
