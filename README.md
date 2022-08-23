@@ -1,7 +1,7 @@
 # Udemy Clone
 
-# Runnging
-to run this project on your local machine 
+# Run Project
+To run this project on your local machine 
 
 1. clone this project
 2. cd to project directory
